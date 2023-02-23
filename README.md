@@ -20,8 +20,6 @@
 
   I'm Andrii, student of Polsko-Japońska Akademia Technik Komputerowych  
   
-  I'm a BackEnd Junior Java Developer
-  
   
  - :mortar_board: I like to learn something new and write code
  - :tada: I like listening music and playing different games
