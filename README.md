@@ -18,12 +18,12 @@
 </div>
 </div>
 
-  I'm Andrii, student of Polsko-Japońska Akademia Technik Komputerowych  
+  I'm Andrii and I am a final year student of polish japanese academy of information technology 
   
   
- - :mortar_board: I like to learn something new and write code
- - :tada: I like listening music and playing different games
- - :soccer: I can take part in different sport activities
+ - :mortar_board: I like to learn new staff and write code
+ - :tada: I like listening music and trading crypto)
+ - :soccer: I can take part in a different sports activities
  - :rocket: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-nagornuu-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/nagornuu)
   
 ---
@@ -31,6 +31,10 @@
 ### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
