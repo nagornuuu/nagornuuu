@@ -1,6 +1,7 @@
+
 # nagornuu
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" width="100"/>
+  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/andriy-nagornyi-436b6a224/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
