@@ -44,6 +44,8 @@
 </div>
   
 ---
+### 
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"/>&nbsp;  
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nagornuuu&theme=dark&background=000000)](https://git.io/streak-stats)
