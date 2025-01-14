@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="100"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/andriy-nagornyi-436b6a224/">
+  <a href="https://www.linkedin.com/in/andrii-nahornyi-436b6a224/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/nagornuuu/">
